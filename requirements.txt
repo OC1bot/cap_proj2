@@ -1,0 +1,10 @@
+streamlit>=1.38
+langchain-core>=0.3
+langchain-ollama>=0.2
+pillow>=11.3
+pydantic>=2.0
+langchain-openai>=0.2
+torchvision
+opencv-python
+streamlit-webrtc
+streamlit-autorefresh
